@@ -35087,6 +35087,127 @@
           "description": "DAD I DID IT!!!!!!!!!!!!!!!!!! im sorry there is mainly snes games i will add 700 of each console soon and own the best and most content filled webrcade feed!!!!!!!!!!!!!"
         }
       ]
+    },
+    {
+      "title": "N64",
+      "longTitle": "poopie poopie fart butt",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQWTO_o1L41PczfnO5vzwc4atdy6iFNFsfA&s",
+      "background": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000046983/a065e997d704f0e1ec3e9e55301041473d8dbe8b7cbc170293717703ac8b0c08",
+      "backgroundPixelated": false,
+      "items": [
+        {
+          "title": "Banjo-Kazooie",
+          "longTitle": "Banjo-Kazooie (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Banjo-Kazooie%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Banjo-Kazooie%20(USA).png",
+          "description": "In Banjo-Kazooie a bear named Banjo and a bird named Kazooie live on Spiral Mountain. One day Gruntilda the witch kidnaps Banjo's sister Tooty, to steal her beauty via a transformation device. Banjo and Kazooie set out on a dangerous adventure to rescue Tooty.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/5a5lp5sj16wp94d9ste7f/Banjo-Kazooie.z64?rlkey=67h782xfvfpnt5v1z6ciqfpws&dl=1"
+          },
+          "added": 1746838169105
+        },
+        {
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/l35t5ghi7682quhpe68tk/Banjo-Kazooie.n64?rlkey=vfas8h6a8e6sf7br6hqdk5o6q&dl=1"
+          },
+          "type": "n64",
+          "title": "Banjo-Kazooie",
+          "added": 1746838169105
+        },
+        {
+          "title": "Doom 64",
+          "longTitle": "Doom 64 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Doom%2064%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Doom%2064%20(USA).png",
+          "description": "Doom 64 is a First Person Shooter developed and released by Midway for the N64 in 1997. After the demonic invasion on Deimos & Phobos was averted, a single, mysterious entity, possessing the ability to resurrect any dead demon it came across, survived the bombardment by the United Aerospace Corporation and recreated the entire demonic horde - stronger and more vicious than ever before, they invade Earth to spread chaos and death! As the solely surviving marine of your troop you only got one mission left - exterminate all the demons and send them back to hell!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/wqb9vvmtpt6mb1kau2gs3/Doom-64.z64?rlkey=ioc67rrxi5gdfjebchus8ja7e&dl=1"
+          },
+          "added": 1746838169105
+        },
+        {
+          "title": "GoldenEye 007",
+          "longTitle": "GoldenEye 007 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/GoldenEye%20007%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/GoldenEye%20007%20(USA).png",
+          "description": "The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.\n\nTen years later, a mysterious organization named \"Janus\" appeared. Commanding a new satellite called \"GoldenEye\", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.\n\nIn this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/txqdyksbyq1670l4y13qa/GoldenEye-007.z64?rlkey=qezqqjvjxveu31b5byq71613m&dl=1"
+          },
+          "added": 1746838169105
+        },
+        {
+          "title": "Mario Kart 64",
+          "longTitle": "Mario Kart 64 (Europe) (Rev 1)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Kart%2064%20(Europe)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Kart%2064%20(Europe)%20(Rev%201).png",
+          "description": "Three Two One GO!  The signal light changes and you drop the pedal to the metal.  Take on up to three friends in the split-screen VS games, or race solo in the Mario GP.  Tell your friends to bring it on in the highly competitive Battle mode.  Advanced features allow you to race with your \"Ghost\".  The driving data from your best run appears as a transparent character on the screen.  No longer must you simply race against the clock -- you can actually race against yourself!\n\n* Save your hottest Ghost data to a portable N64 Controller Pak!\n* Collect multiple power-up items!\n* Twenty different courses -- 4 Cups with 4 courses each and 4 special Battle mode courses!\n* Everyone's favorite characters are back and gorgeously rendered, including two new additions, Donkey Kong and Wario!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/ca8437hir5tq8mwurvojt/Mario-Kart-64.z64?rlkey=tlityllbarfbzkgkvrpjbzplk&dl=1"
+          },
+          "added": 1746838169106
+        },
+        {
+          "title": "Mario Party",
+          "longTitle": "Mario Party (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Party%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Party%20(USA).png",
+          "description": "Every game in the main series has a standard Party Mode in which up to four players play through a board, trying to collect as many stars as possible. In every turn, each player rolls a die and progresses on the board, which usually has branching paths. Coins are primarily earned by performing well in a minigame played at the end of each turn. On most boards, players earn stars by reaching a star space and purchasing a star for a certain amount of coins. The star space appears randomly on one of several pre-determined locations and moves every time a star is purchased, usually occupying a blue space.\nEvery Mario Party contains at least 50 to almost 110 minigames with a few different types. Four-player games are a free-for-all in which players compete individually. In 2-on-2 and 1-on-3 minigames, players compete as two groups, cooperating to win, even though they are still competing individually in the main game. Some minigames in Mario Party are 4-player co-op, even though it doesn't say it. In most situations, winners earn ten coins each.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/0amevsnxra2qb3trz6kyv/Mario-Party.z64?rlkey=8zf1mnmg8vb1o54eyp6iadiox&dl=1"
+          },
+          "added": 1746838169106
+        },
+        {
+          "title": "Paper Mario",
+          "longTitle": "Paper Mario (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Paper%20Mario%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Paper%20Mario%20(USA).png",
+          "description": "Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/ncm51204eh3oa6fut6vyy/Paper-Mario.z64?rlkey=amig9sjnzhl3up52aog26zc53&dl=1"
+          },
+          "added": 1746838169106
+        },
+        {
+          "title": "Spider-Man",
+          "longTitle": "Spider-Man (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Spider-Man%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Spider-Man%20(USA).png",
+          "description": "Spider-Man is the first 3D game to star the popular web-slinger. It is loosely based on Spider-Man: The Animated Series and Spider-Man Unlimited and features some of the voice cast from each and similar character designs.\n\nPeter Parker is attending a demonstration of the reformed Dr. Otto Octavius's new invention when an imposter Spider-Man steals the device. Spider-Man must work to clear his name and uncover the sinister motives behind the device's theft.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/h59z57jiq67eh7oby3e53/Spider-Man.z64?rlkey=bpi49gfre67k6zv5yl321fl59&dl=1"
+          },
+          "added": 1746838169106
+        },
+        {
+          "title": "Super Mario 64",
+          "longTitle": "Super Mario 64 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Super%20Mario%2064%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Super%20Mario%2064%20(USA).png",
+          "description": "Super Mario 64 is a Jump & Run which was developed and published by Nintendo in 1996 as one of the realease titles for the N64. Set in Princess Peach's Castle, Mario discovers that Bowser has invaded the castle and imprisoned the princess as well as her servants within it, using the power of the castle's 120 Power Stars. Mario searches the castle and discovers paintings which are portals to other worlds where Bowser & his minions guard the stars - encouraged to save Princess Peach, Mario embarks on a journey to recover all the Power Stars & defeat Bowser in his lair!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/xib7r8udtacbhei3zf2oo/Super-Mario-64.z64?rlkey=b695mqjiu9ri1xmeyyihnj3a5&dl=1"
+          },
+          "added": 1746838169106
+        }
+      ]
     }
   ],
   "props": {}
